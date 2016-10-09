@@ -1,0 +1,25 @@
+{
+  "name": "asyncjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiaDeMuertos/asyncJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiaDeMuertos/asyncJs/issues"
+  },
+  "homepage": "https://github.com/DiaDeMuertos/asyncJs#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "jshint": "^2.9.3",
+    "lodash": "^4.16.4",
+    "moment": "^2.15.1"
+  }
+}
