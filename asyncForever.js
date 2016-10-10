@@ -24,6 +24,5 @@ let finished = (err) => {
     }
 };
 
-
 async.forever(checkIfDone, finished);
 
